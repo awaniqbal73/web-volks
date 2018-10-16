@@ -1,18 +1,18 @@
 <html>
-<?php include 'head.php';?>
+<?php
+  include 'head.php';
+?>
 
 
 
 <body>
+<?php
+  include 'nav.php';
+?>
 
-
-
-
-<?php include 'nav.php';?>
-
-
-
-<?php include 'slider.php';?>
+<?php
+  include 'slider.php';
+?>
 
 
 

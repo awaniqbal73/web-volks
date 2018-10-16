@@ -1,3 +1,5 @@
+
+<!-- Using Desktop Navigation------------------------------------------>
   <div class="list-header"></div>
 
 <div class="container-fluid">
@@ -59,6 +61,8 @@
 </div>
 </div>
 
+
+<!-- Using Mobile Navigation------------------------------------------>
 
 <div class="container-fluid">
 <div class="col-xs-12 col-sm-12 hidden-md hidden-lg">

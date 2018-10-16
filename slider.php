@@ -5,15 +5,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/12345679.png" alt="Los Angeles">
+      <img src="img/12345679.png" alt="Baner-1">
     </div>
 
     <div class="item">
-      <img src="img/12345679.png" alt="Chicago">
+      <img src="img/12345679.png" alt="Baner-2">
     </div>
 
     <div class="item">
-      <img src="img/12345679.png" alt="New York">
+      <img src="img/12345679.png" alt="Baner-3">
     </div>
   </div>
 
