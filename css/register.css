@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+  background-image:url(../img/bg.gif);
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.c789{
+  top:50%;
+  padding-top: 50%;
+  background-color: black;
+}
+
+.fa{
+    color:purple;
+    width: 30px;
+}

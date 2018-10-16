@@ -1,0 +1,52 @@
+.kaki-logo img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    margin-top:30px;
+   position: static;
+}
+.kaki-logo img:hover {
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
+}
+
+
+
+
+
+.parallax {
+    /* The image used */
+    background-image:url(../img/bg.gif);
+
+    /* Set a specific height */
+    min-height: 150px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jarak-antar {
+    margin-top:70px;
+}
+
+.bg-softgray{
+    background-color: #f7f8fa;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* centered columns styles */
+.vertical-align {
+    display: flex;
+    align-items: center;
+}

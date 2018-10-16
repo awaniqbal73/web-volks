@@ -1,0 +1,42 @@
+
+.kaki img {
+    width: 100%;
+    height: auto;
+}
+.bg-kaki{
+    background-color: #a28bdd;
+}
+.kaki-text{
+  position: relative;
+  color:#aa3392;
+  display: block;
+  background-color: #a28bdd;
+
+}
+.kaki-text b{
+  color:#5a084a;
+  display: block;
+  text-decoration: none;
+  margin-bottom:15px;
+  margin-top:15px;
+
+}
+.kaki-text a{
+  color:#aa3392;
+  display: block;
+  text-decoration: none;
+
+}
+.kaki-text a:hover{
+  text-decoration:none;
+  color:black;
+}
+.bg-padding{
+  margin-top: 60px;
+  background-color: #a28bdd;
+}
+.copy{
+  text-align: center;
+  background-color:#590165;
+  color:white;
+}
