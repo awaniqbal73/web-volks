@@ -1,7 +1,7 @@
 
-  
 
-  <link rel="stylesheet" href="css/kaki.css">  
+
+
 <img src="img/kaki.png" width="100%" >
 
 
@@ -41,21 +41,3 @@
 
 
 <div class="copy">Volks </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
