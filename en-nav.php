@@ -4,7 +4,7 @@
   <div class="row">
 <div class="hidden-xs hidden-sm col-md-12 col-lg-12">
 <div class="container">
-  
+
 <nav class="navbar navbar-inverse">
   <div class="container-fluid" >
     <div class="navbar-header">
@@ -19,7 +19,7 @@
           <li><a href="#">Stodex</a></li>
         </ul>
       </li>
-    
+
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Account <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="#">-------</a></li>
@@ -27,7 +27,7 @@
           <li><a href="#">-------</a></li>
         </ul>
       </li>
-    
+
     </ul>
     <ul class="nav navbar-nav navbar-right">
     <li><button class="button-login"><a href="singup/register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></button>
@@ -67,7 +67,7 @@
   <div class="col-xs-10"><img src="img/logo/logo.png" class="img-responsive"></div>
 
   <div class="col-xs-2"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">☰</a></div>
- 
+
 
      <button type="button" class=" btn-nav"><a href="#">About Us</a></button>
 
@@ -88,9 +88,9 @@
       <a href="#">-----</a>
   </div>
 
-<div class="col-xs-6"> <button type="button" class=" btn-nav-user"><a href="singup/login.php">Login</a></button></div>
+<div class="col-xs-6"> <a href="singup/login.php"><button type="button" class=" btn-nav-user">Login</button></a></div>
 
-<div class="col-xs-6"> <button type="button" class=" btn-nav-user"><a href="singup/register.php">Register</a></button></div>
+<div class="col-xs-6"> <a href="singup/register.php"><button type="button" class=" btn-nav-user">Register</button></a></div>
 
 </div>
 
@@ -129,26 +129,26 @@ function closeNav() {
 
 
 <div id="modal-wrapper" class="modal">
-  
+
   <form class="modal-content animate" action="/action_page.php">
-        
+
     <div class="imgcontainer">
       <span onclick="document.getElementById('modal-wrapper').style.display='none'" class="close" title="Close">&times;</span>
       <img src="img/loginpop.png" alt="Avatar" class="avatar">
 
       <input type="text" placeholder="Username" name="username">
 
-      <input type="password" placeholder="Password" name="psw"> 
+      <input type="password" placeholder="Password" name="psw">
 <br>
-       <input type="checkbox">Remember me  
+       <input type="checkbox">Remember me
        <button type="submit" class="button-login-submit">Login</button>
-        <a href="../forgot.php">Forgot Password ?</a>  
+        <a href="../forgot.php">Forgot Password ?</a>
     </div>
 
-  
-    
+
+
   </form>
-  
+
 </div>
 
 <script>

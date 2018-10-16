@@ -1,15 +1,15 @@
 <html>
-  
+  <link rel="icon" href="img/logo/icon.png" type="img/logo/icon.png" sizes="16x16">
 
   <script src="js/jquery.min.js"></script>
   <script src="css/bost/js/bootstrap.min.js"></script>
    <link rel="stylesheet" href="css/bost/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.css">	
-  <link rel="stylesheet" href="css/login.css">  
-  <link rel="stylesheet" href="css/nav-mobile.css">	
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/login.css">
+  <link rel="stylesheet" href="css/nav-mobile.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link href="css/font/OpenSans-Regular.ttf" rel="stylesheet">
-  <link  rel="stylesheet" href="css/font-awesome-4/css/font-awesome.css"> 
+  <link  rel="stylesheet" href="css/font-awesome-4/css/font-awesome.css">
 
 
 
@@ -107,7 +107,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
                </div>
@@ -117,7 +117,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-  
+
 
 
 
@@ -239,8 +239,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <div class="container">
     <div class="row vertical-align"> <!--
                     ^--  Additional class -->
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" > 
-         <img src="img/sample/hp.jpg" style="width:100%"> 
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" >
+         <img src="img/sample/hp.jpg" style="width:100%">
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" >
          <h1><b> MT4, MT5, cTrader</b></h1><hr>
@@ -265,8 +265,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <center><h1>PATNER</h1></center>
 
 <div class="parallax">
-  
-    
+
+
     <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 kaki-logo" >
         <div class="row">
         <img src="img/sample/sample300150.png"  class="img-responsive center-block" style="width: 150px;">
@@ -336,11 +336,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 </html>
-
-
-
-
-
-
-
-
