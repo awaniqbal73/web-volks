@@ -1,7 +1,7 @@
 
+  
 
-
-
+  <link rel="stylesheet" href="css/kaki.css">  
 <img src="img/kaki.png" width="100%" >
 
 
@@ -36,8 +36,22 @@
 
 </div>
 </div>
-<div class="bg-padding"></div>
 </div>
 
 
-<div class="copy">Volks </div>
+
+
+pakarDesa1n
+
+
+
+
+
+
+
+
+
+
+
+
+
